@@ -30,7 +30,7 @@ Contoh: luthfan/navbar <br/>
 - `<type>` :
   - feature: saya menambahkan fitur baru
   - fixing: saya memperbaiki fitur
-    Contoh : feat[Navbar] : Creating navbar section
+  - Contoh : feat[Navbar] : Creating navbar section
 
 ## Documentation
 
