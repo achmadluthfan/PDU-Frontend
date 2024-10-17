@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'Primeform Pro';
+  src: url('/public/primeform_pro/PrimeformProDemo-Regular.otf') format('opentype');
+  font-weight: 400;
+}
+
+* {
+  font-family: 'Primeform Pro', sans-serif;
+}
